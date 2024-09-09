@@ -129,15 +129,12 @@ struct LoginView: View {
                 
                 Spacer()
                 
-                Image("logo_2")
+                Image("logo_3")
                     .resizable()
                     .scaledToFit()
                     .frame(width: 150, height: 150)
                     .padding(-15.0)
-                
-                Text("Appause")
-                    .fontWeight(.bold)
-                    .font(.system(size: 36))
+             
                 
                 Spacer()
                 
